@@ -4,15 +4,16 @@
 Exploratory Data Analysis: Conducted comprehensive data analysis to gather higher-level insights from the health insurance dataset.</p>
 
 <ol><li>
-Data Visualization: Created visualizations to understand the dataset better and assess the relationships between parameters.
+<li>Data Visualization: Created visualizations to understand the dataset better and assess the relationships between parameters.
+</li>
 
-Data Preprocessing: Applied preprocessing techniques to clean and prepare the data for modeling.
+<li>Data Preprocessing: Applied preprocessing techniques to clean and prepare the data for modeling.</li>
 
-Data Wrangling: Handled data wrangling tasks to ensure the dataset was in optimal shape for analysis.
+<li>Data Wrangling: Handled data wrangling tasks to ensure the dataset was in optimal shape for analysis.</li>
 
-Model Deployment: Utilized a variety of regression models, including:
-
-Linear Regression
+<li>Model Deployment: Utilized a variety of regression models, including:</li>
+<p>
+  Linear Regression
 Lasso Regression
 Support Vector Regression (SVR)
 Random Forest Regressor
@@ -23,10 +24,12 @@ This involved:
 Imputation of missing values using SimpleImputer
 Training and evaluating models with train_test_split and cross_val_score
 Model Performance Visualization: Visualized model performance metrics to assess accuracy and effectiveness.
+</p>
 
-Model Saving: Saved the trained model for future predictions.
+<li>Model Saving: Saved the trained model for future predictions.</li>
 
-Prediction: Used the saved model to predict insurance prices on a new dataset.</li></ol>
+<li>Prediction: Used the saved model to predict insurance prices on a new dataset.</li>
+</li></ol>
 
 <p>Explore the repository to understand the implementation and see how different models perform in predicting medical insurance prices.
 </p>
