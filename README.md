@@ -1,8 +1,9 @@
-Medical Insurance Price Prediction using Machine Learning
-This repository contains a machine learning project aimed at predicting medical insurance prices based on various parameters. The project encompasses the following steps:
+<h1>Medical Insurance Price Prediction using Machine Learning: </h1> 
+<p>This repository contains a machine learning project aimed at predicting medical insurance prices based on various parameters. The project encompasses the following steps:
 
-Exploratory Data Analysis: Conducted comprehensive data analysis to gather higher-level insights from the health insurance dataset.
+Exploratory Data Analysis: Conducted comprehensive data analysis to gather higher-level insights from the health insurance dataset.</p>
 
+<ol><li>
 Data Visualization: Created visualizations to understand the dataset better and assess the relationships between parameters.
 
 Data Preprocessing: Applied preprocessing techniques to clean and prepare the data for modeling.
@@ -25,9 +26,10 @@ Model Performance Visualization: Visualized model performance metrics to assess 
 
 Model Saving: Saved the trained model for future predictions.
 
-Prediction: Used the saved model to predict insurance prices on a new dataset.
+Prediction: Used the saved model to predict insurance prices on a new dataset.</li></ol>
 
-Explore the repository to understand the implementation and see how different models perform in predicting medical insurance prices.
+<p>Explore the repository to understand the implementation and see how different models perform in predicting medical insurance prices.
+</p>
 
 
 
