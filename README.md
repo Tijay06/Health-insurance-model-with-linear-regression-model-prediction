@@ -14,16 +14,15 @@ Exploratory Data Analysis: Conducted comprehensive data analysis to gather highe
 <li>Model Deployment: Utilized a variety of regression models, including:</li>
 <p>
 <p>Linear Regression</p>
-Lasso Regression
-Support Vector Regression (SVR)
-Random Forest Regressor
-Gradient Boosting Regressor
-XGBoost Regressor
-This involved:
-
-Imputation of missing values using SimpleImputer
-Training and evaluating models with train_test_split and cross_val_score
-Model Performance Visualization: Visualized model performance metrics to assess accuracy and effectiveness.
+<p>Lasso Regression</p>
+<p>Support Vector Regression (SVR)</p>
+<p>Random Forest Regressor</p>
+<p>Gradient Boosting Regressor</p>
+<p>XGBoost Regressor</p>
+<p>This involved:</p>
+<p>Imputation of missing values using SimpleImputer</p>
+<p>Training and evaluating models with train_test_split and cross_val_score</p>
+<p>Model Performance Visualization: Visualized model performance metrics to assess accuracy and effectiveness.</p>
 </p>
 
 <li>Model Saving: Saved the trained model for future predictions.</li>
